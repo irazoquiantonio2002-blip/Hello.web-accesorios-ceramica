@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 160" role="img" aria-labelledby="logoTitle">
+  <title id="logoTitle">Accesorios Cerámica</title>
+  <defs>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E8CB8B"/>
+      <stop offset="50%" stop-color="#C6A15B"/>
+      <stop offset="100%" stop-color="#9C7A3C"/>
+    </linearGradient>
+  </defs>
+
+  <!-- flourish -->
+  <g fill="none" stroke="url(#goldGrad)" stroke-width="2.5" stroke-linecap="round">
+    <path d="M30 80c8-18 26-28 45-28"/>
+    <path d="M30 80c8 18 26 28 45 28"/>
+    <circle cx="27" cy="80" r="4" fill="url(#goldGrad)" stroke="none"/>
+  </g>
+  <g fill="none" stroke="url(#goldGrad)" stroke-width="2.5" stroke-linecap="round" transform="translate(560,0) scale(-1,1)">
+    <path d="M30 80c8-18 26-28 45-28"/>
+    <path d="M30 80c8 18 26 28 45 28"/>
+    <circle cx="27" cy="80" r="4" fill="url(#goldGrad)" stroke="none"/>
+  </g>
+
+  <text x="280" y="70" text-anchor="middle" font-family="'Playfair Display', 'Georgia', serif" font-size="42" font-weight="600" fill="url(#goldGrad)" letter-spacing="2">Accesorios</text>
+  <text x="280" y="112" text-anchor="middle" font-family="'Playfair Display', 'Georgia', serif" font-size="42" font-weight="600" fill="url(#goldGrad)" letter-spacing="2">Cerámica</text>
+  <text x="280" y="134" text-anchor="middle" font-family="'Inter', sans-serif" font-size="12" font-weight="500" fill="#8A7350" letter-spacing="5">HECHO A MANO PARA TU CEREMONIA</text>
+</svg>

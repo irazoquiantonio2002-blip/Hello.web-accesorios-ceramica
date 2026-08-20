@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-labelledby="iconTitle">
+  <title id="iconTitle">Accesorios Cerámica</title>
+  <defs>
+    <linearGradient id="goldGradIcon" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E8CB8B"/>
+      <stop offset="50%" stop-color="#C6A15B"/>
+      <stop offset="100%" stop-color="#9C7A3C"/>
+    </linearGradient>
+  </defs>
+  <circle cx="50" cy="50" r="47" fill="none" stroke="url(#goldGradIcon)" stroke-width="2"/>
+  <circle cx="50" cy="50" r="40" fill="none" stroke="url(#goldGradIcon)" stroke-width="1"/>
+  <text x="50" y="63" text-anchor="middle" font-family="'Playfair Display', 'Georgia', serif" font-size="38" font-weight="600" fill="url(#goldGradIcon)">AC</text>
+</svg>
